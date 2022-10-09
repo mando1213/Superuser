@@ -11,5 +11,10 @@ on property:persist.sys.root_access=2
 on property:persist.sys.root_access=1
     start su_daemon
 
-on property:persist.sys.root_access=3
-    start su_daemon
+on property:
+
+
+persist.sys.root_acces
+s=3
+    Star
+ su_daemon
